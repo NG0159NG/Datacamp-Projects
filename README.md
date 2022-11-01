@@ -1,2 +1,5 @@
 # Datacamp-Projects
-This repository contains the projects I have done during my learning journey to become a data scientist.
+This repository contains data science projects completed during my learning journey to get certified as a data scientist.
+
+Programming Language: Python
+IDE: Jupyter Notebook
